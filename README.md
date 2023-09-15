@@ -1,7 +1,4 @@
 # LETS-AUTOMATE-IT
-Certainly, adding a README file to your project is a good practice to help others understand how to use and navigate your code. Here's an example of a README file that you can include with your matrix determinant calculation project:
-
-```markdown
 # Matrix Determinant Calculator
 
 This Python program calculates the determinant of a square matrix of any order. It takes a matrix as input, determines its order, and calculates the determinant using the cofactor expansion method.
